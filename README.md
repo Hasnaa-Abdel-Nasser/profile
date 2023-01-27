@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hasnaa-abdel-nasser358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasnaa-abdel-nasser358" height="20" width="30" /></a>
-<a href="https://codeforces.com/profile/codeforces.com/profile/hasnaa_abdelnaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces.com/profile/hasnaa_abdelnaser" height="20" width="30" /></a>
-<a href="https://www.leetcode.com/leetcode.com/hasnaa8976/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/hasnaa8976/" height="20" width="30" /></a>
+<a href="https://codeforces.com/profile/hasnaa_abdelnaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces.com/profile/hasnaa_abdelnaser" height="20" width="30" /></a>
+<a href="https://www.leetcode.com/hasnaa8976/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/hasnaa8976/" height="20" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
