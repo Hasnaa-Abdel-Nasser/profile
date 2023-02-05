@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasnaa Abdel Nasser</h1>
+<h1 align="center">Hi 👋🏼, I'm Hasnaa Abdel Nasser</h1>
 <h3 align="center">frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
