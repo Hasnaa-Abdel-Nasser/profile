@@ -2,7 +2,7 @@
 <h3 align="center">frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🔭 I’m currently working on **Product data storage system**
+- 🔭 I’m currently working on **TODO List**
 
 - 🌱 I’m currently learning **React.js , MERN stack**
 
