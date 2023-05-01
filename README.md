@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋🏼, I'm Hasnaa Abdel Nasser</h1>
-<h3 align="center">frontend developer from Egypt</h3>
+<h3 align="center">MERN Stack Developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **React.js , MERN stack**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML , CSS , JS and React.js**
+- 💬 Ask me about **HTML , CSS , JS and Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
