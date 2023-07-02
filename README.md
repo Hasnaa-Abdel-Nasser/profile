@@ -2,9 +2,16 @@
 <h3 align="center">MERN Stack Developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🎓 Recently graduated with a degree in Computer Science, I am eager to apply my knowledge and skills in real-world projects.
 
-- 🌱 I’m currently learning **React.js**
+- 🌟 Some of my key skills include:
+  - Problem-solving abilities
+  - Front-end: HTML5, CSS3, JavaScript, React.js, Redux
+  - Back-end: Node.js, Express.js, MongoDB
+  - Version Control: Git, GitHub
+  - Other Tools: Visual Studio Code, Postman
+
+- 🌱 Currently, I am seeking opportunities to work on challenging projects. <br/>If you have any interesting projects or collaboration ideas, feel free to reach out!
 
 - 💬 Ask me about **HTML , CSS , JS and Node.js**
 
