@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/hasnaa-abdel-nasser358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasnaa-abdel-nasser358" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Hasnaa_Abdelnaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces.com/profile/hasnaa_abdelnaser" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leetcode.com/hasnaa8976/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/hasnaa8976/" height="30" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~01eace1fe86c5a6949" target="blank"><img align="center" src="https://malavida.app/wp-content/uploads/2022/03/upwork-for-freelancers.png" alt="leetcode.com/hasnaa8976/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
